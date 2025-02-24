@@ -24,7 +24,7 @@ To start using the RWA protocol, please refer to our [documentation](https://doc
 For further assistance, feel free to reach out to our team through our official communication channels.
 
 ## Contracts
-### Flaunch Addresses
+### RWA Addresses
 | Contract              | Base                                         | Base Sepolia                                 |
 |-----------------------|----------------------------------------------|----------------------------------------------|
 | FeeExemptions         | `0xfdCE459071c74b732B2dEC579Afb38Ea552C4e06` | `0xD0aa3724074727629A9794d8A06CA1B2aDb51a85` |
@@ -44,7 +44,7 @@ For further assistance, feel free to reach out to our team through our official 
 | ReferralEscrow        | `0xBD39c7Be6D98BD1a3e4Ad482baF99d738947fE55` | `0x0651cadC51b6a13CB3465C134A22154a2b633779` |
 | PoolSwap              | `0x4c211268cbf275637A8C235E63A26BC0E05ACA25` | `0xB8ed7Dcc436F646999C5A2C8546b9b0ED51CcD01` |
 
-### flETH Addresses
+### RWA Addresses
 | Contract              | Base                                         | Base Sepolia                                 |
 |-----------------------|----------------------------------------------|----------------------------------------------|
 | flETH                 | `0x000000000d564d5be76f7f0d28fe52605afc7cf8` | `0x79FC52701cD4BE6f9Ba9aDC94c207DE37e3314eb` |
